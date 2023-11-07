@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my repository of LeetCode solutions! This repository contains my personal solutions to some of LeetCode problems as my preparations for technical interviews.
+Welcome to my repository of LeetCode solutions! This repository contains my personal and some others people's solutions to LeetCode problems as my preparations for technical interviews.
 
 ## Languages Used
 
