@@ -7,6 +7,7 @@
 
 
 // Selection Sort for sorting in descending order
+
 const selectionSort = (arr) => {
     let largestIndex;
     let temp;
